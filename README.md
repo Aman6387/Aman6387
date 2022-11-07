@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Smart Contact Manager**
 
-- 🌱 I’m currently learning **Java, React, MySQL, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Java, MySQL, HTML, CSS, JavaScript**
 
-- 💬 Ask me about **Java, MySQL, HTML, CSS, React**
+- 💬 Ask me about **Java, MySQL, HTML, CSS**
 
 - 📫 How to reach me **pandeyaman422@gmail.com**
 
