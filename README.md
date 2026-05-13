@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman6387&label=Profile%20views&color=0e75b6&style=flat" alt="aman6387" /> </p>
 
-- 🔭 I’m currently working on **Smart Contact Manager**
+- 🔭 I’m currently working on **Unity Game Engine**
 
-- 🌱 I’m currently learning **Java, MySQL, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Unity3D, Physics and Other**
 
-- 💬 Ask me about **Java, MySQL, HTML, CSS**
+- 💬 Ask me about **Unity, C#, Debugging, Optimization, Animation, 2DSpine Animation, Physics, GIT, Tortoise SVN**
 
-- 📫 How to reach me **pandeyaman422@gmail.com**
+- 📫 How to reach me **amanpandey12062002@gmail.com, pandeyaman422@gmail.com, 6387000490**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
